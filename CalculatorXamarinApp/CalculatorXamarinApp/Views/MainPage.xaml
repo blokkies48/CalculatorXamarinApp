@@ -75,7 +75,9 @@
                     Command="{Binding buttonNumerical}"
                     CommandParameter="1"/>
             <Button Grid.Row="3" Grid.Column="1" 
-                    Text="2"/>
+                    Text="2"
+                    Command="{Binding buttonNumerical}"
+                    CommandParameter="2"/>
             <Button Grid.Row="3" Grid.Column="2" 
                     Text="3"/>
             <Button Grid.Row="3" Grid.Column="3" 
