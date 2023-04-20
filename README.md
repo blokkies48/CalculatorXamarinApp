@@ -1,5 +1,5 @@
 # Basic Calulator App
-##Xamarin C# andriod focused app
+##Xamarin Csharp andriod focused app
 
 This is just a very basic calculator app that makes use of design patterns such as MVVM, command pattern, and single responsibility principle.
 
